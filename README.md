@@ -1,2 +1,4 @@
 # be-otp
-backend aplikasi one time password (otp) menggunakan node js
+Backend aplikasi one time password (otp) menggunakan node js
+<br /><br />
+Digunakan pada aplikasi milik PT ILCS https://www.ilcs.co.id/
